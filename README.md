@@ -1,6 +1,6 @@
 # Advanced Backend Concepts
 
-This repository contains code snippets with examples that provide an introductory explanation of advanced backend topics, such as WebSockets, EC2 Deployment, Nginx, Authentication using cookies, Rate Limiting, Captchas, Caching, Pub/Sub systems, Scaling, Capacity Estimation, Indexing and Normalization in Database, etc.
+This repository contains code snippets with examples that provide an introductory explanation of advanced backend topics, such as WebSockets, Authentication using cookies, Rate Limiting, Captchas, Caching, Pub/Sub systems, Scaling, Capacity Estimation, Indexing and Normalization in Database, etc.
 
 ## WebSockets
 source : https://projects.100xdevs.com/tracks/ABEC/ABEC-1
